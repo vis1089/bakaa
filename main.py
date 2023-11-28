@@ -134,6 +134,6 @@ function play(guild, song) {
 }
 
 // Replace 'YOUR_BOT_TOKEN' with your actual bot token
-client.login('MTE3ODg0NTE4NjA1NTQ4NzU2MQ.GcPoHJ.TU8Ts1cyY9_dnPPDOwHg4y9cnrlTnT11-B9jiQ');
+client.login
 
 
