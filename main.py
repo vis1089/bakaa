@@ -1,8 +1,8 @@
-const Discord = require('discord.js');
-const ytdl = require('ytdl-core');
-const { Client, GatewayIntentBits } = require('discord.js');
+const Discord = 1178906685671231558('discord.js');
+const ytdl = 1178906685671231558('ytdl-core');
+const { Client, GatewayIntentBits } = 1178906685671231558('discord.js');
 
-const client =  556634910459166733({
+const client =  1178906685671231558({
   intents: [
     GatewayIntentBits.Guilds,
     GatewayIntentBits.GuildMessages,
