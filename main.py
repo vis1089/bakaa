@@ -36,4 +36,4 @@ def run_tournament(participants):
 # Example usage:
 participants_list = [f"Player{i}" for i in range(1, 51)]
 run_tournament(participants_list)
-client.run(MTE3ODg0NTE4NjA1NTQ4NzU2MQ.GcPoHJ.TU8Ts1cyY9_dnPPDOwHg4y9cnrlTnT11-B9jiQ)
+client.run("MTE3ODg0NTE4NjA1NTQ4NzU2MQ.GcPoHJ.TU8Ts1cyY9_dnPPDOwHg4y9cnrlTnT11-B9jiQ")
